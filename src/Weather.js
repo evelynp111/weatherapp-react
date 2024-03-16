@@ -96,16 +96,16 @@ export default function Weather() {
         <a href="https://github.com/evelynp111" target="_blank">
           Evelyn
         </a>
-        , is open-sourced on
+        , is open-sourced on 
         <a
-          href="https://github.com/evelynp111/WeatherApp-Project"
+          href="https://github.com/evelynp111/weatherapp-react"
           target="_blank"
         >
-          GitHub
+          GitHub 
         </a>
         and is hosted on
-        <a href="https://keen-biscochitos-fbc596.netlify.app/" target="_blank">
-          Netlify
+        <a href="https://charming-tartufo-3f0d4f.netlify.app/" target="_blank">
+           Netlify
         </a>
         .
       </span>
